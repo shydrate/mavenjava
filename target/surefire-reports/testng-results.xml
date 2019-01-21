@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+      <class name="mavenjava.Mobile">
+        <test-method status="PASS" signature="IOS()[pri:0, instance:mavenjava.Mobile@2c6a3f77]" name="IOS" duration-ms="1" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:mavenjava.Mobile@2c6a3f77]" name="NativeAndroid" duration-ms="1" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+      </class> <!-- mavenjava.Mobile -->
+      <class name="mavenjava.Restapi">
+        <test-method status="PASS" signature="deletetweeter()[pri:0, instance:mavenjava.Restapi@1324409e]" name="deletetweeter" duration-ms="10" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetweeter -->
+        <test-method status="PASS" signature="postJera()[pri:0, instance:mavenjava.Restapi@1324409e]" name="postJera" duration-ms="0" started-at="2019-01-21T10:33:10Z" finished-at="2019-01-21T10:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJera -->
+      </class> <!-- mavenjava.Restapi -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

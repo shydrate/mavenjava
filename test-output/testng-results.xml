@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+      <class name="mavenjava.Mobile">
+        <test-method status="PASS" signature="IOS()[pri:0, instance:mavenjava.Mobile@6d4b1c02]" name="IOS" duration-ms="3" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:mavenjava.Mobile@6d4b1c02]" name="NativeAndroid" duration-ms="7" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+      </class> <!-- mavenjava.Mobile -->
+      <class name="mavenjava.Restapi">
+        <test-method status="PASS" signature="deletetweeter()[pri:0, instance:mavenjava.Restapi@685cb137]" name="deletetweeter" duration-ms="12" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetweeter -->
+        <test-method status="PASS" signature="postJera()[pri:0, instance:mavenjava.Restapi@685cb137]" name="postJera" duration-ms="3" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJera -->
+      </class> <!-- mavenjava.Restapi -->
+      <class name="mavenjava.Qualick">
+        <test-method status="PASS" signature="Seleniumautomation()[pri:0, instance:mavenjava.Qualick@6093dd95]" name="Seleniumautomation" duration-ms="3" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumautomation -->
+        <test-method status="PASS" signature="elementui()[pri:0, instance:mavenjava.Qualick@6093dd95]" name="elementui" duration-ms="2" started-at="2019-01-21T08:50:20Z" finished-at="2019-01-21T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- mavenjava.Qualick -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
